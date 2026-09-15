@@ -1,1 +1,1 @@
-project mdk-05-02
+project mdk-05-02.
